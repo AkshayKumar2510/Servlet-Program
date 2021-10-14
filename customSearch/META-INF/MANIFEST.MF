@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: customSearch
+Bundle-SymbolicName: customSearch
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: customSearch.jar,
+ Apache Software Foundation/Tomcat 10.0/lib/servlet-api.jar
+Automatic-Module-Name: customSearch
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Export-Package: .
